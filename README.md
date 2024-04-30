@@ -22,4 +22,4 @@ python main.py
 ## Demo
 
 Watch the demo
-https://transfer.wireway.ch/get/rH8QUuUCYB/mcnamescan.mp4
+https://cdn.wireway.ch/mcnamescan.mp4
